@@ -1,2 +1,4 @@
 *.sqlite3
-*.env
+.env
+_pycache__/
+.idea/
